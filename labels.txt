@@ -1,0 +1,3 @@
+0 Cones
+1 Balls
+2 Cars
